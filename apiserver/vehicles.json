@@ -1,0 +1,5483 @@
+[
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 60,
+    "enginePowerKW": 44,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1299
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 68,
+    "enginePowerKW": 50,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1399
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 75,
+    "enginePowerKW": 55,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1242
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 80,
+    "enginePowerKW": 59,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1388
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 101,
+    "enginePowerKW": 74,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 90,
+    "enginePowerKW": 66,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1560
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 60,
+    "enginePowerKW": 44,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1299
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 50,
+    "enginePowerKW": 37,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1119
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 95,
+    "enginePowerKW": 70,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1560
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 75,
+    "enginePowerKW": 55,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1753
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 54,
+    "enginePowerKW": 40,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1097
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 75,
+    "enginePowerKW": 55,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1753
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 50,
+    "enginePowerKW": 37,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1097
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 131,
+    "enginePowerKW": 96,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1796
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 90,
+    "enginePowerKW": 66,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1388
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 105,
+    "enginePowerKW": 77,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1796
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 73,
+    "enginePowerKW": 54,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1391
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 90,
+    "enginePowerKW": 66,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1388
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 60,
+    "enginePowerKW": 44,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1753
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 103,
+    "enginePowerKW": 76,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1598
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 71,
+    "enginePowerKW": 52,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1391
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 69,
+    "enginePowerKW": 51,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1299
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 60,
+    "enginePowerKW": 44,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1299
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 68,
+    "enginePowerKW": 50,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1399
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 75,
+    "enginePowerKW": 55,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1242
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 80,
+    "enginePowerKW": 59,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1388
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 101,
+    "enginePowerKW": 74,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 90,
+    "enginePowerKW": 66,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1560
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1999
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 200,
+    "enginePowerKW": 147,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 69,
+    "enginePowerKW": 51,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1299
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 60,
+    "enginePowerKW": 44,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1299
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 88,
+    "enginePowerKW": 65,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1597
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 73,
+    "enginePowerKW": 54,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1391
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 71,
+    "enginePowerKW": 52,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1399
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 54,
+    "enginePowerKW": 40,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1119
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 50,
+    "enginePowerKW": 37,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1119
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 73,
+    "enginePowerKW": 54,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1368
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 103,
+    "enginePowerKW": 76,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 75,
+    "enginePowerKW": 55,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1242
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 60,
+    "enginePowerKW": 44,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1753
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 50,
+    "enginePowerKW": 37,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1299
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 60,
+    "enginePowerKW": 44,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1299
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 75,
+    "enginePowerKW": 55,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1242
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 88,
+    "enginePowerKW": 65,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1597
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 60,
+    "enginePowerKW": 44,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1753
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 101,
+    "enginePowerKW": 74,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 998
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 125,
+    "enginePowerKW": 92,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 998
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 140,
+    "enginePowerKW": 103,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 998
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 49,
+    "enginePowerKW": 36,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1087
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 71,
+    "enginePowerKW": 52,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1084
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 50,
+    "enginePowerKW": 37,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1087
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 45,
+    "enginePowerKW": 33,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 935
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 86,
+    "enginePowerKW": 63,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1084
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 86,
+    "enginePowerKW": 63,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1499
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 101,
+    "enginePowerKW": 74,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 998
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 120,
+    "enginePowerKW": 88,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1499
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 125,
+    "enginePowerKW": 92,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 998
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 105,
+    "enginePowerKW": 77,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 75,
+    "enginePowerKW": 55,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1499
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 80,
+    "enginePowerKW": 59,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 998
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 97,
+    "enginePowerKW": 71,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1567
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 65,
+    "enginePowerKW": 48,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 998
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 54,
+    "enginePowerKW": 40,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1597
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 69,
+    "enginePowerKW": 51,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1271
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 105,
+    "enginePowerKW": 77,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1796
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 131,
+    "enginePowerKW": 96,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1796
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 50,
+    "enginePowerKW": 37,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1299
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 60,
+    "enginePowerKW": 44,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1299
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 182,
+    "enginePowerKW": 134,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 135,
+    "enginePowerKW": 99,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 95,
+    "enginePowerKW": 70,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1567
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 75,
+    "enginePowerKW": 55,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1368
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 71,
+    "enginePowerKW": 52,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1368
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 90,
+    "enginePowerKW": 66,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1560
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1999
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 90,
+    "enginePowerKW": 66,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1560
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 73,
+    "enginePowerKW": 54,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1368
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 69,
+    "enginePowerKW": 51,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1271
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 54,
+    "enginePowerKW": 40,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1597
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 49,
+    "enginePowerKW": 36,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1087
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 97,
+    "enginePowerKW": 71,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1567
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 71,
+    "enginePowerKW": 52,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1368
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 95,
+    "enginePowerKW": 70,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1567
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 60,
+    "enginePowerKW": 44,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1242
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 82,
+    "enginePowerKW": 60,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1242
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 97,
+    "enginePowerKW": 71,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1388
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 120,
+    "enginePowerKW": 88,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 69,
+    "enginePowerKW": 51,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1299
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 68,
+    "enginePowerKW": 50,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1399
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 60,
+    "enginePowerKW": 44,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1299
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 90,
+    "enginePowerKW": 66,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1560
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 140,
+    "enginePowerKW": 103,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 998
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 88,
+    "enginePowerKW": 65,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1597
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 45,
+    "enginePowerKW": 33,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 935
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 71,
+    "enginePowerKW": 52,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1391
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 60,
+    "enginePowerKW": 44,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1753
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 103,
+    "enginePowerKW": 76,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1598
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 103,
+    "enginePowerKW": 76,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1598
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 50,
+    "enginePowerKW": 37,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1087
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 60,
+    "enginePowerKW": 44,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1753
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 73,
+    "enginePowerKW": 54,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1391
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 50,
+    "enginePowerKW": 37,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1119
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 50,
+    "enginePowerKW": 37,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1097
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 105,
+    "enginePowerKW": 77,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1796
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 131,
+    "enginePowerKW": 96,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1796
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 54,
+    "enginePowerKW": 40,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1097
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 71,
+    "enginePowerKW": 52,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1391
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 60,
+    "enginePowerKW": 44,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1299
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 80,
+    "enginePowerKW": 59,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1388
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 69,
+    "enginePowerKW": 51,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1299
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 68,
+    "enginePowerKW": 50,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1399
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 60,
+    "enginePowerKW": 44,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1299
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 75,
+    "enginePowerKW": 55,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1368
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 101,
+    "enginePowerKW": 74,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 80,
+    "enginePowerKW": 59,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1388
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 75,
+    "enginePowerKW": 55,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1560
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 95,
+    "enginePowerKW": 70,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1499
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 97,
+    "enginePowerKW": 71,
+    "fuelType": "Gas",
+    "bodyType": "Limousine",
+    "engineCapacity": 1388
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 68,
+    "enginePowerKW": 50,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1399
+  },
+  {
+    "make": "FORD",
+    "model": "Fiesta",
+    "enginePowerPS": 101,
+    "enginePowerKW": 74,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 120,
+    "enginePowerKW": 88,
+    "fuelType": "Gas",
+    "bodyType": "Kombi",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 120,
+    "enginePowerKW": 88,
+    "fuelType": "Sonstiges",
+    "bodyType": "Kombi",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 120,
+    "enginePowerKW": 88,
+    "fuelType": "Sonstiges",
+    "bodyType": "Kombi",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 109,
+    "enginePowerKW": 80,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1560
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 136,
+    "enginePowerKW": 100,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1997
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 105,
+    "enginePowerKW": 77,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 125,
+    "enginePowerKW": 92,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 90,
+    "enginePowerKW": 66,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1560
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 110,
+    "enginePowerKW": 81,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1997
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 125,
+    "enginePowerKW": 92,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 999
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 101,
+    "enginePowerKW": 74,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 999
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 101,
+    "enginePowerKW": 74,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 125,
+    "enginePowerKW": 92,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 999
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 101,
+    "enginePowerKW": 74,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 999
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 182,
+    "enginePowerKW": 134,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1498
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 182,
+    "enginePowerKW": 134,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1498
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1997
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1997
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1997
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1997
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 120,
+    "enginePowerKW": 88,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1499
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 120,
+    "enginePowerKW": 88,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1499
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 95,
+    "enginePowerKW": 70,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1499
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 95,
+    "enginePowerKW": 70,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1499
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 145,
+    "enginePowerKW": 107,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1999
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 116,
+    "enginePowerKW": 85,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1560
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 120,
+    "enginePowerKW": 88,
+    "fuelType": "Gas",
+    "bodyType": "Kombi",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 95,
+    "enginePowerKW": 70,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1560
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 105,
+    "enginePowerKW": 77,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 137,
+    "enginePowerKW": 101,
+    "fuelType": "Hybrid",
+    "bodyType": "Kombi",
+    "engineCapacity": 1999
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 125,
+    "enginePowerKW": 92,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 116,
+    "enginePowerKW": 85,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1560
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 95,
+    "enginePowerKW": 70,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1560
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 182,
+    "enginePowerKW": 134,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 163,
+    "enginePowerKW": 120,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1997
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 140,
+    "enginePowerKW": 103,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1997
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 182,
+    "enginePowerKW": 134,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 163,
+    "enginePowerKW": 120,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1997
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 140,
+    "enginePowerKW": 103,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1997
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 116,
+    "enginePowerKW": 85,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1997
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 116,
+    "enginePowerKW": 85,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1997
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 145,
+    "enginePowerKW": 107,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1999
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 136,
+    "enginePowerKW": 100,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1997
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 86,
+    "enginePowerKW": 63,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 125,
+    "enginePowerKW": 92,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1798
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 109,
+    "enginePowerKW": 80,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1560
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 90,
+    "enginePowerKW": 66,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1560
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 101,
+    "enginePowerKW": 74,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 105,
+    "enginePowerKW": 77,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1499
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1498
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1498
+  },
+  {
+    "make": "FORD",
+    "model": "C-Max",
+    "enginePowerPS": 125,
+    "enginePowerKW": 92,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1798
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 184,
+    "enginePowerKW": 135,
+    "fuelType": "Hybrid",
+    "bodyType": "Limousine",
+    "engineCapacity": 1998
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 163,
+    "enginePowerKW": 120,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 190,
+    "enginePowerKW": 140,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 252,
+    "enginePowerKW": 185,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1998
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 326,
+    "enginePowerKW": 240,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2998
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 252,
+    "enginePowerKW": 185,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1998
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 326,
+    "enginePowerKW": 240,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2998
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 190,
+    "enginePowerKW": 140,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 163,
+    "enginePowerKW": 120,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 190,
+    "enginePowerKW": 140,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 190,
+    "enginePowerKW": 140,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 326,
+    "enginePowerKW": 240,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2998
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 252,
+    "enginePowerKW": 185,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1998
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 190,
+    "enginePowerKW": 140,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 190,
+    "enginePowerKW": 140,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 252,
+    "enginePowerKW": 185,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1998
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 326,
+    "enginePowerKW": 240,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2998
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 192,
+    "enginePowerKW": 141,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2494
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 192,
+    "enginePowerKW": 141,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2494
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 163,
+    "enginePowerKW": 120,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 326,
+    "enginePowerKW": 240,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2998
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 258,
+    "enginePowerKW": 190,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 211,
+    "enginePowerKW": 155,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2497
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 224,
+    "enginePowerKW": 165,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 218,
+    "enginePowerKW": 160,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2497
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 252,
+    "enginePowerKW": 185,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1998
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 163,
+    "enginePowerKW": 120,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 224,
+    "enginePowerKW": 165,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 218,
+    "enginePowerKW": 160,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2497
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 252,
+    "enginePowerKW": 185,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1998
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 129,
+    "enginePowerKW": 95,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 231,
+    "enginePowerKW": 170,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 231,
+    "enginePowerKW": 170,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Diesel",
+    "bodyType": "Cabrio",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 231,
+    "enginePowerKW": 170,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 218,
+    "enginePowerKW": 160,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2497
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 258,
+    "enginePowerKW": 190,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 2171
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 116,
+    "enginePowerKW": 85,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1796
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 192,
+    "enginePowerKW": 141,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2494
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 258,
+    "enginePowerKW": 190,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 218,
+    "enginePowerKW": 160,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2497
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 231,
+    "enginePowerKW": 170,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 184,
+    "enginePowerKW": 135,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 2926
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 184,
+    "enginePowerKW": 135,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 2926
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 163,
+    "enginePowerKW": 120,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2171
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 143,
+    "enginePowerKW": 105,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 204,
+    "enginePowerKW": 150,
+    "fuelType": "Diesel",
+    "bodyType": "Cabrio",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 204,
+    "enginePowerKW": 150,
+    "fuelType": "Diesel",
+    "bodyType": "Coupe",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 192,
+    "enginePowerKW": 141,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2494
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Diesel",
+    "bodyType": "Coupe",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2171
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 231,
+    "enginePowerKW": 170,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 192,
+    "enginePowerKW": 141,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 2494
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 204,
+    "enginePowerKW": 150,
+    "fuelType": "Diesel",
+    "bodyType": "Cabrio",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 136,
+    "enginePowerKW": 100,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 163,
+    "enginePowerKW": 120,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 306,
+    "enginePowerKW": 225,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 184,
+    "enginePowerKW": 135,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 197,
+    "enginePowerKW": 145,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 286,
+    "enginePowerKW": 210,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 306,
+    "enginePowerKW": 225,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 306,
+    "enginePowerKW": 225,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 197,
+    "enginePowerKW": 145,
+    "fuelType": "Diesel",
+    "bodyType": "Coupe",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 245,
+    "enginePowerKW": 180,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1997
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 306,
+    "enginePowerKW": 225,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 286,
+    "enginePowerKW": 210,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 143,
+    "enginePowerKW": 105,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 218,
+    "enginePowerKW": 160,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2497
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 143,
+    "enginePowerKW": 105,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 116,
+    "enginePowerKW": 85,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1951
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 116,
+    "enginePowerKW": 85,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1951
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 129,
+    "enginePowerKW": 95,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 286,
+    "enginePowerKW": 210,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 2990
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 321,
+    "enginePowerKW": 236,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 3201
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 286,
+    "enginePowerKW": 210,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2990
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Diesel",
+    "bodyType": "Cabrio",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 122,
+    "enginePowerKW": 90,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 321,
+    "enginePowerKW": 236,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 3201
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 173,
+    "enginePowerKW": 127,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1997
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 321,
+    "enginePowerKW": 236,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 3201
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 163,
+    "enginePowerKW": 120,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 192,
+    "enginePowerKW": 141,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2494
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 224,
+    "enginePowerKW": 165,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 122,
+    "enginePowerKW": 90,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 231,
+    "enginePowerKW": 170,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 343,
+    "enginePowerKW": 252,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 3246
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 360,
+    "enginePowerKW": 265,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 3246
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 258,
+    "enginePowerKW": 190,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 192,
+    "enginePowerKW": 141,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2494
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 343,
+    "enginePowerKW": 252,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 3246
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2171
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 192,
+    "enginePowerKW": 141,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2494
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 218,
+    "enginePowerKW": 160,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2497
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 2171
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 258,
+    "enginePowerKW": 190,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 192,
+    "enginePowerKW": 141,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 2494
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2171
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 129,
+    "enginePowerKW": 95,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1990
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 102,
+    "enginePowerKW": 75,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 129,
+    "enginePowerKW": 95,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 116,
+    "enginePowerKW": 85,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1796
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 99,
+    "enginePowerKW": 73,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 231,
+    "enginePowerKW": 170,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 258,
+    "enginePowerKW": 190,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 116,
+    "enginePowerKW": 85,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1796
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 122,
+    "enginePowerKW": 90,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 231,
+    "enginePowerKW": 170,
+    "fuelType": "Diesel",
+    "bodyType": "Cabrio",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 163,
+    "enginePowerKW": 120,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 184,
+    "enginePowerKW": 135,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1998
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 116,
+    "enginePowerKW": 85,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 143,
+    "enginePowerKW": 105,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 258,
+    "enginePowerKW": 190,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 184,
+    "enginePowerKW": 135,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 245,
+    "enginePowerKW": 180,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1997
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 306,
+    "enginePowerKW": 225,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 193,
+    "enginePowerKW": 142,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2793
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 140,
+    "enginePowerKW": 103,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 1796
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 1991
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 306,
+    "enginePowerKW": 225,
+    "fuelType": "Hybrid",
+    "bodyType": "Limousine",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 136,
+    "enginePowerKW": 100,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1598
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 231,
+    "enginePowerKW": 170,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 1991
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2494
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 116,
+    "enginePowerKW": 85,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 2497
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Diesel",
+    "bodyType": "Coupe",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 116,
+    "enginePowerKW": 85,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1895
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 218,
+    "enginePowerKW": 160,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2497
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 231,
+    "enginePowerKW": 170,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 204,
+    "enginePowerKW": 150,
+    "fuelType": "Diesel",
+    "bodyType": "Coupe",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 116,
+    "enginePowerKW": 85,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 116,
+    "enginePowerKW": 85,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 184,
+    "enginePowerKW": 135,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1998
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 258,
+    "enginePowerKW": 190,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 245,
+    "enginePowerKW": 180,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1997
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 218,
+    "enginePowerKW": 160,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2497
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 231,
+    "enginePowerKW": 170,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 192,
+    "enginePowerKW": 141,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2494
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 258,
+    "enginePowerKW": 190,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 184,
+    "enginePowerKW": 135,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1998
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 245,
+    "enginePowerKW": 180,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1997
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 306,
+    "enginePowerKW": 225,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 306,
+    "enginePowerKW": 225,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 306,
+    "enginePowerKW": 225,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 184,
+    "enginePowerKW": 135,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 163,
+    "enginePowerKW": 120,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 177,
+    "enginePowerKW": 130,
+    "fuelType": "Diesel",
+    "bodyType": "Coupe",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 258,
+    "enginePowerKW": 190,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 116,
+    "enginePowerKW": 85,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 184,
+    "enginePowerKW": 135,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 204,
+    "enginePowerKW": 150,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 163,
+    "enginePowerKW": 120,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 204,
+    "enginePowerKW": 150,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2494
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 143,
+    "enginePowerKW": 105,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 163,
+    "enginePowerKW": 120,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 218,
+    "enginePowerKW": 160,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2497
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 231,
+    "enginePowerKW": 170,
+    "fuelType": "Diesel",
+    "bodyType": "Coupe",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 272,
+    "enginePowerKW": 200,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 218,
+    "enginePowerKW": 160,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2497
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 231,
+    "enginePowerKW": 170,
+    "fuelType": "Diesel",
+    "bodyType": "Coupe",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 272,
+    "enginePowerKW": 200,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 286,
+    "enginePowerKW": 210,
+    "fuelType": "Diesel",
+    "bodyType": "Coupe",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 184,
+    "enginePowerKW": 135,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1997
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 211,
+    "enginePowerKW": 155,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2497
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 116,
+    "enginePowerKW": 85,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 143,
+    "enginePowerKW": 105,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 102,
+    "enginePowerKW": 75,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 143,
+    "enginePowerKW": 105,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 90,
+    "enginePowerKW": 66,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1766
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 118,
+    "enginePowerKW": 87,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1895
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 102,
+    "enginePowerKW": 75,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1766
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 193,
+    "enginePowerKW": 142,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2793
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 129,
+    "enginePowerKW": 95,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1990
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 306,
+    "enginePowerKW": 225,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 272,
+    "enginePowerKW": 200,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 218,
+    "enginePowerKW": 160,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 102,
+    "enginePowerKW": 75,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 105,
+    "enginePowerKW": 77,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1895
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 99,
+    "enginePowerKW": 73,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 136,
+    "enginePowerKW": 100,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1951
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 116,
+    "enginePowerKW": 85,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1796
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 113,
+    "enginePowerKW": 83,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1796
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1991
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1991
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2494
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 192,
+    "enginePowerKW": 141,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2494
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 2494
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2291
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 90,
+    "enginePowerKW": 66,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1665
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1991
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 193,
+    "enginePowerKW": 142,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2793
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 193,
+    "enginePowerKW": 142,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2793
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1991
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 1991
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 1991
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 272,
+    "enginePowerKW": 200,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 218,
+    "enginePowerKW": 160,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 272,
+    "enginePowerKW": 200,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 177,
+    "enginePowerKW": 130,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 218,
+    "enginePowerKW": 160,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 306,
+    "enginePowerKW": 225,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 218,
+    "enginePowerKW": 160,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 218,
+    "enginePowerKW": 160,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 143,
+    "enginePowerKW": 105,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 184,
+    "enginePowerKW": 135,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 245,
+    "enginePowerKW": 180,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1997
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 306,
+    "enginePowerKW": 225,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 326,
+    "enginePowerKW": 240,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2998
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 193,
+    "enginePowerKW": 142,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2793
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 122,
+    "enginePowerKW": 90,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2674
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 193,
+    "enginePowerKW": 142,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 2793
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 102,
+    "enginePowerKW": 75,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1754
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 184,
+    "enginePowerKW": 135,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1998
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 163,
+    "enginePowerKW": 120,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 102,
+    "enginePowerKW": 75,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 140,
+    "enginePowerKW": 103,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1895
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 218,
+    "enginePowerKW": 160,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 184,
+    "enginePowerKW": 135,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1998
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 86,
+    "enginePowerKW": 63,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 2443
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 231,
+    "enginePowerKW": 170,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 143,
+    "enginePowerKW": 105,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 2497
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 231,
+    "enginePowerKW": 170,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2494
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 231,
+    "enginePowerKW": 170,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 231,
+    "enginePowerKW": 170,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 136,
+    "enginePowerKW": 100,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1598
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 306,
+    "enginePowerKW": 225,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 231,
+    "enginePowerKW": 170,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 231,
+    "enginePowerKW": 170,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2494
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 258,
+    "enginePowerKW": 190,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 245,
+    "enginePowerKW": 180,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 245,
+    "enginePowerKW": 180,
+    "fuelType": "Diesel",
+    "bodyType": "Coupe",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 245,
+    "enginePowerKW": 180,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 245,
+    "enginePowerKW": 180,
+    "fuelType": "Diesel",
+    "bodyType": "Coupe",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 258,
+    "enginePowerKW": 190,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 245,
+    "enginePowerKW": 180,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 245,
+    "enginePowerKW": 180,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1997
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 177,
+    "enginePowerKW": 130,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 171,
+    "enginePowerKW": 126,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2476
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 306,
+    "enginePowerKW": 225,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 177,
+    "enginePowerKW": 130,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 171,
+    "enginePowerKW": 126,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2476
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 177,
+    "enginePowerKW": 130,
+    "fuelType": "Diesel",
+    "bodyType": "Coupe",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 245,
+    "enginePowerKW": 180,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 184,
+    "enginePowerKW": 135,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 118,
+    "enginePowerKW": 87,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1895
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 193,
+    "enginePowerKW": 142,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2793
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 140,
+    "enginePowerKW": 103,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1796
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 204,
+    "enginePowerKW": 150,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 204,
+    "enginePowerKW": 150,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 105,
+    "enginePowerKW": 77,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1895
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 1991
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 192,
+    "enginePowerKW": 141,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 2494
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 272,
+    "enginePowerKW": 200,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 272,
+    "enginePowerKW": 200,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 197,
+    "enginePowerKW": 145,
+    "fuelType": "Diesel",
+    "bodyType": "Coupe",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1598
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 116,
+    "enginePowerKW": 85,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 143,
+    "enginePowerKW": 105,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 118,
+    "enginePowerKW": 87,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 1895
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 143,
+    "enginePowerKW": 105,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 2497
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 102,
+    "enginePowerKW": 75,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 102,
+    "enginePowerKW": 75,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 136,
+    "enginePowerKW": 100,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1951
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 218,
+    "enginePowerKW": 160,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 211,
+    "enginePowerKW": 155,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 150,
+    "enginePowerKW": 110,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1991
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 116,
+    "enginePowerKW": 85,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 1796
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 184,
+    "enginePowerKW": 135,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 2926
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 184,
+    "enginePowerKW": 135,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 2926
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 102,
+    "enginePowerKW": 75,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 211,
+    "enginePowerKW": 155,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 197,
+    "enginePowerKW": 145,
+    "fuelType": "Diesel",
+    "bodyType": "Cabrio",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 177,
+    "enginePowerKW": 130,
+    "fuelType": "Diesel",
+    "bodyType": "Cabrio",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 306,
+    "enginePowerKW": 225,
+    "fuelType": "Hybrid",
+    "bodyType": "Limousine",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 218,
+    "enginePowerKW": 160,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 218,
+    "enginePowerKW": 160,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 143,
+    "enginePowerKW": 105,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 143,
+    "enginePowerKW": 105,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 136,
+    "enginePowerKW": 100,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 163,
+    "enginePowerKW": 120,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 143,
+    "enginePowerKW": 105,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 136,
+    "enginePowerKW": 100,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 177,
+    "enginePowerKW": 130,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 90,
+    "enginePowerKW": 66,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1754
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 90,
+    "enginePowerKW": 66,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1665
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 90,
+    "enginePowerKW": 66,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1665
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 143,
+    "enginePowerKW": 105,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 105,
+    "enginePowerKW": 77,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1754
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 140,
+    "enginePowerKW": 103,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1796
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 125,
+    "enginePowerKW": 92,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1977
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 136,
+    "enginePowerKW": 100,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 129,
+    "enginePowerKW": 95,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1991
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 420,
+    "enginePowerKW": 309,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 3999
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2494
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 420,
+    "enginePowerKW": 309,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 3999
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 420,
+    "enginePowerKW": 309,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 3999
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 113,
+    "enginePowerKW": 83,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1796
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 420,
+    "enginePowerKW": 309,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 3999
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 420,
+    "enginePowerKW": 309,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 3999
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 420,
+    "enginePowerKW": 309,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 3999
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 116,
+    "enginePowerKW": 85,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 313,
+    "enginePowerKW": 230,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 431,
+    "enginePowerKW": 317,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 113,
+    "enginePowerKW": 83,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1796
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 136,
+    "enginePowerKW": 100,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1796
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 116,
+    "enginePowerKW": 85,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 2443
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2494
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 102,
+    "enginePowerKW": 75,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 450,
+    "enginePowerKW": 331,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 99,
+    "enginePowerKW": 73,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2494
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2171
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 116,
+    "enginePowerKW": 85,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 2497
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 143,
+    "enginePowerKW": 105,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 2497
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 129,
+    "enginePowerKW": 95,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1991
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 102,
+    "enginePowerKW": 75,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 129,
+    "enginePowerKW": 95,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 1991
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 116,
+    "enginePowerKW": 85,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1796
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 163,
+    "enginePowerKW": 120,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 171,
+    "enginePowerKW": 126,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 2476
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 116,
+    "enginePowerKW": 85,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1796
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 163,
+    "enginePowerKW": 120,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 245,
+    "enginePowerKW": 180,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1997
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 306,
+    "enginePowerKW": 225,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 184,
+    "enginePowerKW": 135,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 245,
+    "enginePowerKW": 180,
+    "fuelType": "Diesel",
+    "bodyType": "Cabrio",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 313,
+    "enginePowerKW": 230,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 143,
+    "enginePowerKW": 105,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 218,
+    "enginePowerKW": 160,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 184,
+    "enginePowerKW": 135,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1998
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 143,
+    "enginePowerKW": 105,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 129,
+    "enginePowerKW": 95,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2674
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 116,
+    "enginePowerKW": 85,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 2443
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 2494
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 102,
+    "enginePowerKW": 75,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 1596
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 116,
+    "enginePowerKW": 85,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 1796
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2494
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2494
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 140,
+    "enginePowerKW": 103,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 1895
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 143,
+    "enginePowerKW": 105,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 184,
+    "enginePowerKW": 135,
+    "fuelType": "Diesel",
+    "bodyType": "Cabrio",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 143,
+    "enginePowerKW": 105,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 184,
+    "enginePowerKW": 135,
+    "fuelType": "Diesel",
+    "bodyType": "Coupe",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 272,
+    "enginePowerKW": 200,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 306,
+    "enginePowerKW": 225,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 218,
+    "enginePowerKW": 160,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 245,
+    "enginePowerKW": 180,
+    "fuelType": "Diesel",
+    "bodyType": "Cabrio",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 204,
+    "enginePowerKW": 150,
+    "fuelType": "Diesel",
+    "bodyType": "Cabrio",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 245,
+    "enginePowerKW": 180,
+    "fuelType": "Diesel",
+    "bodyType": "Coupe",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 272,
+    "enginePowerKW": 200,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 286,
+    "enginePowerKW": 210,
+    "fuelType": "Diesel",
+    "bodyType": "Coupe",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 204,
+    "enginePowerKW": 150,
+    "fuelType": "Diesel",
+    "bodyType": "Coupe",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 218,
+    "enginePowerKW": 160,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 143,
+    "enginePowerKW": 105,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 116,
+    "enginePowerKW": 85,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 143,
+    "enginePowerKW": 105,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 218,
+    "enginePowerKW": 160,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 245,
+    "enginePowerKW": 180,
+    "fuelType": "Diesel",
+    "bodyType": "Coupe",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 272,
+    "enginePowerKW": 200,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 306,
+    "enginePowerKW": 225,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 306,
+    "enginePowerKW": 225,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 184,
+    "enginePowerKW": 135,
+    "fuelType": "Diesel",
+    "bodyType": "Coupe",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 258,
+    "enginePowerKW": 190,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 313,
+    "enginePowerKW": 230,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 113,
+    "enginePowerKW": 83,
+    "fuelType": "Benzin",
+    "bodyType": "Cabrio",
+    "engineCapacity": 1796
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 258,
+    "enginePowerKW": 190,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 286,
+    "enginePowerKW": 210,
+    "fuelType": "Benzin",
+    "bodyType": "Coupe",
+    "engineCapacity": 2990
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 194,
+    "enginePowerKW": 143,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2266
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 215,
+    "enginePowerKW": 158,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2302
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 200,
+    "enginePowerKW": 147,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2266
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 218,
+    "enginePowerKW": 160,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 245,
+    "enginePowerKW": 180,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 272,
+    "enginePowerKW": 200,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 204,
+    "enginePowerKW": 150,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 163,
+    "enginePowerKW": 120,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 184,
+    "enginePowerKW": 135,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 272,
+    "enginePowerKW": 200,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 306,
+    "enginePowerKW": 225,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 116,
+    "enginePowerKW": 85,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 218,
+    "enginePowerKW": 160,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 184,
+    "enginePowerKW": 135,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 245,
+    "enginePowerKW": 180,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 286,
+    "enginePowerKW": 210,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 306,
+    "enginePowerKW": 225,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 163,
+    "enginePowerKW": 120,
+    "fuelType": "Diesel",
+    "bodyType": "Limousine",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 204,
+    "enginePowerKW": 150,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 218,
+    "enginePowerKW": 160,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 170,
+    "enginePowerKW": 125,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 143,
+    "enginePowerKW": 105,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 163,
+    "enginePowerKW": 120,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 184,
+    "enginePowerKW": 135,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 143,
+    "enginePowerKW": 105,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 218,
+    "enginePowerKW": 160,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 245,
+    "enginePowerKW": 180,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 272,
+    "enginePowerKW": 200,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 306,
+    "enginePowerKW": 225,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 306,
+    "enginePowerKW": 225,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2979
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 163,
+    "enginePowerKW": 120,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 184,
+    "enginePowerKW": 135,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 1995
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 245,
+    "enginePowerKW": 180,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 2993
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 136,
+    "enginePowerKW": 100,
+    "fuelType": "Benzin",
+    "bodyType": "Limousine",
+    "engineCapacity": 1499
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 136,
+    "enginePowerKW": 100,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 1499
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 272,
+    "enginePowerKW": 200,
+    "fuelType": "Benzin",
+    "bodyType": "Kombi",
+    "engineCapacity": 2996
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "enginePowerPS": 286,
+    "enginePowerKW": 210,
+    "fuelType": "Diesel",
+    "bodyType": "Kombi",
+    "engineCapacity": 2993
+  }
+]
