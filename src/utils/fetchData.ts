@@ -1,13 +1,16 @@
-import { FetchError } from './fetchError';
+import { FetchError } from "./fetchError";
 
-const processResponse = (response: any) => {
-  const responseBody = response.json();
+export const fetchData = (url: string, retries: number = 5): any =>
+  fetch(url)
+    .then((response: any) => {
+      const responseBody = response.json();
 
-  if (!response.ok) {
-    throw new FetchError(response.status, response.statusText);
-  }
-
-  return responseBody;
-};
-
-export const fetchData = (url: string) => fetch(url).then(processResponse);
+      if (!response.ok) {
+        if (retries > 0) return fetchData(url, retries - 1);
+        else throw new FetchError(response.status, response.statusText);
+      } else return responseBody;
+    })
+    .catch(() => {
+      if (retries > 0) return fetchData(url, retries - 1);
+      //else throw new FetchError(response.status, response.statusText);
+    });

@@ -18,7 +18,7 @@ var FetchError = /** @class */ (function (_super) {
     __extends(FetchError, _super);
     function FetchError(status, statusText) {
         var _this = _super.call(this, status + " " + statusText) || this;
-        _this.name = 'FetchError';
+        _this.name = "FetchError";
         Object.setPrototypeOf(_this, FetchError.prototype);
         return _this;
     }
