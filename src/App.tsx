@@ -10,6 +10,14 @@ export interface Vehicle {
   enginePowerPS?: string | number;
 }
 
+export interface ViewModel {
+  modelEnabled: boolean;
+  bodyTypeEnabled: boolean;
+  fuelTypeEnabled: boolean;
+  engineCapacityEnabled: boolean;
+  enginePowerEnabled: boolean;
+}
+
 function App() {
   const [makes, setMakes] = useState<string[]>([]);
   const [models, setModels] = useState<string[]>([]);
@@ -23,21 +31,46 @@ function App() {
   const [make, setMake] = useState<string | null>(null);
   const [model, setModel] = useState<string | null>(null);
 
+  const [viewModel, setViewModel] = useState<ViewModel>({
+    modelEnabled: false,
+    bodyTypeEnabled: false,
+    fuelTypeEnabled: false,
+    engineCapacityEnabled: false,
+    enginePowerEnabled: false
+  });
+
+  const updateViewModel = () =>
+    setViewModel({
+      modelEnabled: make !== null,
+      bodyTypeEnabled: model !== null,
+      fuelTypeEnabled: bodyType !== null,
+      engineCapacityEnabled: fuelType !== null,
+      enginePowerEnabled: engineCapacity !== null
+    });
+
+  useEffect(updateViewModel, [
+    makes,
+    models,
+    vehicles,
+    bodyType,
+    fuelType,
+    engineCapacity
+  ]);
+
   useEffect(() => {
     if (fetchData)
-      fetchData("http://localhost:8080/api/makes").then((response: any) =>
+      fetchData("http://localhost:8080/api/makes").then((response: string[]) =>
         setMakes(response)
       );
   }, []);
 
   const makeSelected = (selectedItem: string) => {
     setModels([]);
-    setMake(selectedItem);
 
     if (fetchData)
       fetchData(`http://localhost:8080/api/models?make=${selectedItem}`).then(
-        (response: any) => {
-          console.log(response, selectedItem);
+        (response: string[]) => {
+          setMake(selectedItem);
           setModels(response);
         }
       );
@@ -45,11 +78,11 @@ function App() {
 
   const modelSelected = (selectedItem: string) => {
     setVehicles([]);
-    setModel(selectedItem);
     if (fetchData) {
       fetchData(
         `http://localhost:8080/api/vehicles?make=${make}&model=${selectedItem}`
-      ).then((response: any) => {
+      ).then((response: Vehicle[]) => {
+        setModel(selectedItem);
         setVehicles(response);
       });
     }
@@ -115,31 +148,45 @@ function App() {
     <div>
       <div>Select your car</div>
       <Dropdown list={makes} title={"Makes"} onSelect={makeSelected}></Dropdown>
-      <Dropdown
-        list={models}
-        title={"Models"}
-        onSelect={modelSelected}
-      ></Dropdown>
-      <Dropdown
-        list={getBodyTypeList()}
-        title={"Body Type"}
-        onSelect={bodyTypeSelected}
-      ></Dropdown>
-      <Dropdown
-        list={getFuelTypeList()}
-        title={"Fuel Type"}
-        onSelect={fuelTypeSelected}
-      ></Dropdown>
-      <Dropdown
-        list={getEngineCapacityList()}
-        title={"Engine Capacity"}
-        onSelect={engineCapacitySelected}
-      ></Dropdown>
-      <Dropdown
-        list={getEnginePowerList()}
-        title={"Engine Power"}
-        onSelect={enginePowerSelected}
-      ></Dropdown>
+      {viewModel.modelEnabled && (
+        <Dropdown
+          list={models}
+          title={"Models"}
+          onSelect={modelSelected}
+        ></Dropdown>
+      )}
+
+      {viewModel.bodyTypeEnabled && (
+        <Dropdown
+          list={getBodyTypeList()}
+          title={"Body Type"}
+          onSelect={bodyTypeSelected}
+        ></Dropdown>
+      )}
+
+      {viewModel.fuelTypeEnabled && (
+        <Dropdown
+          list={getFuelTypeList()}
+          title={"Fuel Type"}
+          onSelect={fuelTypeSelected}
+        ></Dropdown>
+      )}
+
+      {viewModel.engineCapacityEnabled && (
+        <Dropdown
+          list={getEngineCapacityList()}
+          title={"Engine Capacity"}
+          onSelect={engineCapacitySelected}
+        ></Dropdown>
+      )}
+
+      {viewModel.enginePowerEnabled && (
+        <Dropdown
+          list={getEnginePowerList()}
+          title={"Engine Power"}
+          onSelect={enginePowerSelected}
+        ></Dropdown>
+      )}
     </div>
   );
 }
