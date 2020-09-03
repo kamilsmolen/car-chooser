@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import "./App.css";
 import { fetchData } from "./utils/dist/fetchData";
 import { Dropdown } from "./components/Dropdown/DropdownComponent";
 
@@ -13,6 +12,9 @@ function App() {
   const [enginePowerKW, setEnginePowerKW] = useState<string | null>(null);
   const [enginePowerPS, setEnginePowerPS] = useState<string | null>(null);
 
+  const [make, setMake] = useState<string | null>(null);
+  const [model, setModel] = useState<string | null>(null);
+
   useEffect(() => {
     if (fetchData)
       fetchData("http://localhost:8080/api/makes").then((response: any) =>
@@ -22,36 +24,25 @@ function App() {
 
   const makeSelected = (selectedItem: string) => {
     setModels([]);
+    setMake(selectedItem);
 
     if (fetchData)
       fetchData(`http://localhost:8080/api/models?make=${selectedItem}`).then(
         (response: any) => {
-          setModels(
-            response.map((modelItem: string) => ({
-              make: selectedItem,
-              value: modelItem
-            }))
-          );
+          console.log(response, selectedItem);
+          setModels(response);
         }
       );
   };
 
   const modelSelected = (selectedItem: string) => {
     setVehicles([]);
-    const index = selectedItem.indexOf(" ");
-    const model = [selectedItem.slice(0, index), selectedItem.slice(index + 1)];
+    setModel(selectedItem);
     if (fetchData) {
       fetchData(
-        `http://localhost:8080/api/vehicles?make=${model[0]}&model=${model[1]}`
+        `http://localhost:8080/api/vehicles?make=${make}&model=${selectedItem}`
       ).then((response: any) => {
-        console.log(response);
-        setVehicles(
-          response.map((vehicleItem: string) => ({
-            make: model[0],
-            model: model[1],
-            value: vehicleItem
-          }))
-        );
+        setVehicles(response);
       });
     }
   };
@@ -65,64 +56,60 @@ function App() {
 
   const enginePowerSelected = (selectedItem: string) => {
     const values = selectedItem.split(" ");
-    console.log(
-      values[values.indexOf("PS") - 1],
-      values[values.indexOf("KW") - 1]
-    );
     setEnginePowerPS(values[values.indexOf("PS") - 1]);
     setEnginePowerKW(values[values.indexOf("KW") - 1]);
   };
 
   const getBodyTypeList = () =>
     vehicles
-      .map((p: any) => p.value.bodyType)
+      .map((p: any) => p.bodyType)
       .filter(
         (bodyType: string, index: number, arr: string[]) =>
           arr.indexOf(bodyType) === index
-      );
+      )
+      .sort();
 
   const getFuelTypeList = () =>
     vehicles
-      .filter((p: any) => p.value.bodyType === bodyType)
-      .map((p: any) => p.value.fuelType)
+      .filter((p: any) => p.bodyType === bodyType)
+      .map((p: any) => p.fuelType)
       .filter(
         (fuelType: string, index: number, arr: string[]) =>
           arr.indexOf(fuelType) === index
-      );
+      )
+      .sort();
+
   const getEngineCapacityList = () =>
     vehicles
-      .filter(
-        (p: any) =>
-          p.value.bodyType === bodyType && p.value.fuelType === fuelType
-      )
-      .map((p: any) => p.value.engineCapacity.toString())
+      .filter((p: any) => p.bodyType === bodyType && p.fuelType === fuelType)
+      .map((p: any) => p.engineCapacity.toString())
       .filter(
         (fuelType: string, index: number, arr: string[]) =>
           arr.indexOf(fuelType) === index
-      );
+      )
+      .sort();
+
   const getEnginePowerList = () =>
     vehicles
       .filter(
         (p: any) =>
-          p.value.bodyType === bodyType &&
-          p.value.fuelType === fuelType &&
-          p.value.engineCapacity === Number(engineCapacity)
+          p.bodyType === bodyType &&
+          p.fuelType === fuelType &&
+          p.engineCapacity === Number(engineCapacity)
       )
-      .map(
-        (p: any) => `${p.value.enginePowerPS} PS ${p.value.enginePowerKW} KW`
-      )
+      .map((p: any) => `${p.enginePowerPS} PS ${p.enginePowerKW} KW`)
       .filter(
         (fuelType: string, index: number, arr: string[]) =>
           arr.indexOf(fuelType) === index
-      );
-  // if (fetchData) {
-  //   fetchData('http://localhost:8080/api/vehicles?make=Ford&model=Fiesta').then(response => { console.log(response) });
-  // }
+      )
+      .sort();
+
   return (
-    <div className="App">
+    <div>
+      <div>Select your car</div>
       <Dropdown list={makes} title={"Makes"} onSelect={makeSelected}></Dropdown>
       <Dropdown
-        list={models.map((model: any) => `${model.make} ${model.value}`)}
+        list={models}
         title={"Models"}
         onSelect={modelSelected}
       ></Dropdown>

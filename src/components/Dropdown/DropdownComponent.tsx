@@ -1,4 +1,5 @@
-import React, { FunctionComponent, useState, useRef, useEffect } from "react";
+import React, { FunctionComponent, useState } from "react";
+import "./dropdown.css";
 
 interface DropdownProps {
   list: string[];
@@ -7,58 +8,27 @@ interface DropdownProps {
 }
 
 export const Dropdown: FunctionComponent<DropdownProps> = props => {
-  const myRef = useRef<HTMLDivElement | null>(null);
+  const [selected, setSelected] = useState<string | undefined>(undefined);
 
-  const [selected, setSelected] = useState<string | null>(null);
-  const [isOpen, setIsOpen] = useState<boolean>(false);
-
-  const handleApply = () => {
-    if (!isOpen && null !== selected) {
-      props.onSelect(selected);
-    }
-  };
-
-  useEffect(handleApply, [isOpen]);
-
-  const handleClickInside = () => setIsOpen(!isOpen);
-
-  const handleClickOutside = (e: any) => {
-    if (null !== myRef && null !== myRef.current) {
-      if (!myRef.current.contains(e.target)) {
-        setIsOpen(false);
-      }
-    }
-  };
-
-  const toggleItem = (value: string) => {
-    setSelected(value);
-    setIsOpen(false);
-  };
-
-  useEffect(() => {
-    document.addEventListener("mousedown", handleClickOutside);
-    return () => document.removeEventListener("mousedown", handleClickOutside);
-  });
-
-  const getTitle = () => {
-    const label = props.title ? props.title : "item";
-    return null === selected ? `Select ${label}` : selected;
+  const handleChange = (event: React.ChangeEvent<Element>) => {
+    const element = event.target as HTMLSelectElement;
+    setSelected(element.value);
+    props.onSelect(element.value);
   };
 
   return (
     <>
-      <div ref={myRef}>
-        <div onClick={handleClickInside}>{getTitle()}</div>
-
-        {isOpen && (
-          <ul>
+      <div>
+        <label>
+          {`${props.title ? props.title : "Item"} `}
+          <select value={selected} onChange={handleChange}>
             {props.list.map((item, key) => (
-              <li key={key} onClick={() => toggleItem(item)}>
+              <option value={item} key={key}>
                 {item}
-              </li>
+              </option>
             ))}
-          </ul>
-        )}
+          </select>
+        </label>
       </div>
     </>
   );
