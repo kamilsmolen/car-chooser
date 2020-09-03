@@ -1,11 +1,19 @@
 import React, { useState, useEffect } from "react";
-import { fetchData } from "./utils/dist/fetchData";
+import { fetchData } from "./utils/fetchData";
 import { Dropdown } from "./components/Dropdown/DropdownComponent";
 
+export interface Vehicle {
+  bodyType?: string;
+  fuelType?: string;
+  engineCapacity?: string | number;
+  enginePowerKW?: string | number;
+  enginePowerPS?: string | number;
+}
+
 function App() {
-  const [makes, setMakes] = useState([]);
-  const [models, setModels] = useState([]);
-  const [vehicles, setVehicles] = useState([]);
+  const [makes, setMakes] = useState<string[]>([]);
+  const [models, setModels] = useState<string[]>([]);
+  const [vehicles, setVehicles] = useState<Vehicle[]>([]);
   const [bodyType, setBodyType] = useState<string | null>(null);
   const [fuelType, setFuelType] = useState<string | null>(null);
   const [engineCapacity, setEngineCapacity] = useState<string | null>(null);
@@ -60,49 +68,48 @@ function App() {
     setEnginePowerKW(values[values.indexOf("KW") - 1]);
   };
 
-  const getBodyTypeList = () =>
+  const filterVehicles = (
+    filterCallback: (vehicle: Vehicle) => boolean,
+    mapCallback: (vehicle: Vehicle) => any
+  ) =>
     vehicles
-      .map((p: any) => p.bodyType)
+      .filter(filterCallback)
+      .map(mapCallback)
       .filter(
-        (bodyType: string, index: number, arr: string[]) =>
-          arr.indexOf(bodyType) === index
+        (item: string, index: number, arr: string[]) =>
+          arr.indexOf(item) === index
       )
       .sort();
+
+  const getBodyTypeList = () =>
+    filterVehicles(
+      () => true,
+      (vehicle: Vehicle) => vehicle.bodyType
+    );
 
   const getFuelTypeList = () =>
-    vehicles
-      .filter((p: any) => p.bodyType === bodyType)
-      .map((p: any) => p.fuelType)
-      .filter(
-        (fuelType: string, index: number, arr: string[]) =>
-          arr.indexOf(fuelType) === index
-      )
-      .sort();
+    filterVehicles(
+      (vehicle: Vehicle) => vehicle.bodyType === bodyType,
+      (vehicle: Vehicle) => vehicle.fuelType
+    );
 
   const getEngineCapacityList = () =>
-    vehicles
-      .filter((p: any) => p.bodyType === bodyType && p.fuelType === fuelType)
-      .map((p: any) => p.engineCapacity.toString())
-      .filter(
-        (fuelType: string, index: number, arr: string[]) =>
-          arr.indexOf(fuelType) === index
-      )
-      .sort();
+    filterVehicles(
+      (vehicle: Vehicle) =>
+        vehicle.bodyType === bodyType && vehicle.fuelType === fuelType,
+      (vehicle: Vehicle) =>
+        vehicle.engineCapacity && vehicle.engineCapacity.toString()
+    );
 
   const getEnginePowerList = () =>
-    vehicles
-      .filter(
-        (p: any) =>
-          p.bodyType === bodyType &&
-          p.fuelType === fuelType &&
-          p.engineCapacity === Number(engineCapacity)
-      )
-      .map((p: any) => `${p.enginePowerPS} PS ${p.enginePowerKW} KW`)
-      .filter(
-        (fuelType: string, index: number, arr: string[]) =>
-          arr.indexOf(fuelType) === index
-      )
-      .sort();
+    filterVehicles(
+      (vehicle: Vehicle) =>
+        vehicle.bodyType === bodyType &&
+        vehicle.fuelType === fuelType &&
+        vehicle.engineCapacity === Number(engineCapacity),
+      (vehicle: Vehicle) =>
+        `${vehicle.enginePowerPS} PS ${vehicle.enginePowerKW} KW`
+    );
 
   return (
     <div>
