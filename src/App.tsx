@@ -10,7 +10,7 @@ export interface Vehicle {
   enginePowerPS?: string | number;
 }
 
-export interface ViewModel {
+export interface dropdownViewModel {
   modelEnabled: boolean;
   bodyTypeEnabled: boolean;
   fuelTypeEnabled: boolean;
@@ -20,6 +20,7 @@ export interface ViewModel {
 }
 
 function App() {
+  const [isLoaded, setIsLoaded] = useState<boolean>(false);
   const [makes, setMakes] = useState<string[]>([]);
   const [models, setModels] = useState<string[]>([]);
   const [vehicles, setVehicles] = useState<Vehicle[]>([]);
@@ -27,7 +28,9 @@ function App() {
   const [make, setMake] = useState<string | null>(null);
   const [model, setModel] = useState<string | null>(null);
 
-  const [viewModel, setViewModel] = useState<ViewModel>({
+  const [dropdownViewModel, setDropdownViewModelModel] = useState<
+    dropdownViewModel
+  >({
     modelEnabled: false,
     bodyTypeEnabled: false,
     fuelTypeEnabled: false,
@@ -37,7 +40,8 @@ function App() {
   });
 
   const updateViewModel = () =>
-    setViewModel({
+    setDropdownViewModelModel({
+      ...dropdownViewModel,
       modelEnabled: make !== null,
       bodyTypeEnabled: model !== null,
       fuelTypeEnabled:
@@ -58,8 +62,11 @@ function App() {
 
   useEffect(() => {
     if (fetchData)
-      fetchData("http://localhost:8080/api/makes").then((response: string[]) =>
-        setMakes(response)
+      fetchData("http://localhost:8080/api/makes").then(
+        (response: string[]) => {
+          setMakes(response);
+          setIsLoaded(true);
+        }
       );
   }, []);
 
@@ -171,49 +178,59 @@ function App() {
 
   return (
     <div>
-      <div>Select your car</div>
-      <Dropdown list={makes} title={"Makes"} onSelect={makeSelected}></Dropdown>
-      {viewModel.modelEnabled && (
-        <Dropdown
-          list={models}
-          title={"Models"}
-          onSelect={modelSelected}
-        ></Dropdown>
-      )}
+      {!isLoaded ? (
+        <div>Loading...</div>
+      ) : (
+        <div>
+          <div>Select your car</div>
+          <Dropdown
+            list={makes}
+            title={"Makes"}
+            onSelect={makeSelected}
+          ></Dropdown>
+          {dropdownViewModel.modelEnabled && (
+            <Dropdown
+              list={models}
+              title={"Models"}
+              onSelect={modelSelected}
+            ></Dropdown>
+          )}
 
-      {viewModel.bodyTypeEnabled && (
-        <Dropdown
-          list={getBodyTypeList()}
-          title={"Body Type"}
-          onSelect={bodyTypeSelected}
-        ></Dropdown>
-      )}
+          {dropdownViewModel.bodyTypeEnabled && (
+            <Dropdown
+              list={getBodyTypeList()}
+              title={"Body Type"}
+              onSelect={bodyTypeSelected}
+            ></Dropdown>
+          )}
 
-      {viewModel.fuelTypeEnabled && (
-        <Dropdown
-          list={getFuelTypeList()}
-          title={"Fuel Type"}
-          onSelect={fuelTypeSelected}
-        ></Dropdown>
-      )}
+          {dropdownViewModel.fuelTypeEnabled && (
+            <Dropdown
+              list={getFuelTypeList()}
+              title={"Fuel Type"}
+              onSelect={fuelTypeSelected}
+            ></Dropdown>
+          )}
 
-      {viewModel.engineCapacityEnabled && (
-        <Dropdown
-          list={getEngineCapacityList()}
-          title={"Engine Capacity"}
-          onSelect={engineCapacitySelected}
-        ></Dropdown>
-      )}
+          {dropdownViewModel.engineCapacityEnabled && (
+            <Dropdown
+              list={getEngineCapacityList()}
+              title={"Engine Capacity"}
+              onSelect={engineCapacitySelected}
+            ></Dropdown>
+          )}
 
-      {viewModel.enginePowerEnabled && (
-        <Dropdown
-          list={getEnginePowerList()}
-          title={"Engine Power"}
-          onSelect={enginePowerSelected}
-        ></Dropdown>
-      )}
+          {dropdownViewModel.enginePowerEnabled && (
+            <Dropdown
+              list={getEnginePowerList()}
+              title={"Engine Power"}
+              onSelect={enginePowerSelected}
+            ></Dropdown>
+          )}
 
-      {viewModel.buttonEnabled && <button>Select car</button>}
+          {dropdownViewModel.buttonEnabled && <button>Select car</button>}
+        </div>
+      )}
     </div>
   );
 }
