@@ -16,18 +16,14 @@ export interface ViewModel {
   fuelTypeEnabled: boolean;
   engineCapacityEnabled: boolean;
   enginePowerEnabled: boolean;
+  buttonEnabled: boolean;
 }
 
 function App() {
   const [makes, setMakes] = useState<string[]>([]);
   const [models, setModels] = useState<string[]>([]);
   const [vehicles, setVehicles] = useState<Vehicle[]>([]);
-  const [bodyType, setBodyType] = useState<string | null>(null);
-  const [fuelType, setFuelType] = useState<string | null>(null);
-  const [engineCapacity, setEngineCapacity] = useState<string | null>(null);
-  const [enginePowerKW, setEnginePowerKW] = useState<string | null>(null);
-  const [enginePowerPS, setEnginePowerPS] = useState<string | null>(null);
-
+  const [vehicleConfig, setVehicleConfig] = useState<Vehicle>();
   const [make, setMake] = useState<string | null>(null);
   const [model, setModel] = useState<string | null>(null);
 
@@ -36,26 +32,29 @@ function App() {
     bodyTypeEnabled: false,
     fuelTypeEnabled: false,
     engineCapacityEnabled: false,
-    enginePowerEnabled: false
+    enginePowerEnabled: false,
+    buttonEnabled: false
   });
 
   const updateViewModel = () =>
     setViewModel({
       modelEnabled: make !== null,
       bodyTypeEnabled: model !== null,
-      fuelTypeEnabled: bodyType !== null,
-      engineCapacityEnabled: fuelType !== null,
-      enginePowerEnabled: engineCapacity !== null
+      fuelTypeEnabled:
+        vehicleConfig !== undefined && vehicleConfig.bodyType !== undefined,
+      engineCapacityEnabled:
+        vehicleConfig !== undefined && vehicleConfig.fuelType !== undefined,
+      enginePowerEnabled:
+        vehicleConfig !== undefined &&
+        vehicleConfig.engineCapacity !== undefined,
+      buttonEnabled:
+        (vehicleConfig !== undefined &&
+          vehicleConfig.enginePowerPS !== undefined) ||
+        (vehicleConfig !== undefined &&
+          vehicleConfig.enginePowerKW !== undefined)
     });
 
-  useEffect(updateViewModel, [
-    makes,
-    models,
-    vehicles,
-    bodyType,
-    fuelType,
-    engineCapacity
-  ]);
+  useEffect(updateViewModel, [makes, models, vehicles, vehicleConfig]);
 
   useEffect(() => {
     if (fetchData)
@@ -66,6 +65,8 @@ function App() {
 
   const makeSelected = (selectedItem: string) => {
     setModels([]);
+    setVehicles([]);
+    setVehicleConfig({});
 
     if (fetchData)
       fetchData(`http://localhost:8080/api/models?make=${selectedItem}`).then(
@@ -78,6 +79,7 @@ function App() {
 
   const modelSelected = (selectedItem: string) => {
     setVehicles([]);
+    setVehicleConfig({});
     if (fetchData) {
       fetchData(
         `http://localhost:8080/api/vehicles?make=${make}&model=${selectedItem}`
@@ -88,17 +90,39 @@ function App() {
     }
   };
 
-  const bodyTypeSelected = (selectedItem: string) => setBodyType(selectedItem);
+  const bodyTypeSelected = (selectedItem: string) =>
+    setVehicleConfig({
+      bodyType: selectedItem,
+      fuelType: undefined,
+      engineCapacity: undefined,
+      enginePowerKW: undefined,
+      enginePowerPS: undefined
+    });
 
-  const fuelTypeSelected = (selectedItem: string) => setFuelType(selectedItem);
+  const fuelTypeSelected = (selectedItem: string) =>
+    setVehicleConfig({
+      ...vehicleConfig,
+      fuelType: selectedItem,
+      engineCapacity: undefined,
+      enginePowerKW: undefined,
+      enginePowerPS: undefined
+    });
 
   const engineCapacitySelected = (selectedItem: string) =>
-    setEngineCapacity(selectedItem);
+    setVehicleConfig({
+      ...vehicleConfig,
+      engineCapacity: selectedItem,
+      enginePowerKW: undefined,
+      enginePowerPS: undefined
+    });
 
   const enginePowerSelected = (selectedItem: string) => {
     const values = selectedItem.split(" ");
-    setEnginePowerPS(values[values.indexOf("PS") - 1]);
-    setEnginePowerKW(values[values.indexOf("KW") - 1]);
+    setVehicleConfig({
+      ...vehicleConfig,
+      enginePowerKW: values[values.indexOf("PS") - 1],
+      enginePowerPS: values[values.indexOf("KW") - 1]
+    });
   };
 
   const filterVehicles = (
@@ -122,14 +146,15 @@ function App() {
 
   const getFuelTypeList = () =>
     filterVehicles(
-      (vehicle: Vehicle) => vehicle.bodyType === bodyType,
+      (vehicle: Vehicle) => vehicle.bodyType === vehicleConfig?.bodyType,
       (vehicle: Vehicle) => vehicle.fuelType
     );
 
   const getEngineCapacityList = () =>
     filterVehicles(
       (vehicle: Vehicle) =>
-        vehicle.bodyType === bodyType && vehicle.fuelType === fuelType,
+        vehicle.bodyType === vehicleConfig?.bodyType &&
+        vehicle.fuelType === vehicleConfig?.fuelType,
       (vehicle: Vehicle) =>
         vehicle.engineCapacity && vehicle.engineCapacity.toString()
     );
@@ -137,9 +162,9 @@ function App() {
   const getEnginePowerList = () =>
     filterVehicles(
       (vehicle: Vehicle) =>
-        vehicle.bodyType === bodyType &&
-        vehicle.fuelType === fuelType &&
-        vehicle.engineCapacity === Number(engineCapacity),
+        vehicle.bodyType === vehicleConfig?.bodyType &&
+        vehicle.fuelType === vehicleConfig?.fuelType &&
+        vehicle.engineCapacity === Number(vehicleConfig?.engineCapacity),
       (vehicle: Vehicle) =>
         `${vehicle.enginePowerPS} PS ${vehicle.enginePowerKW} KW`
     );
@@ -187,6 +212,8 @@ function App() {
           onSelect={enginePowerSelected}
         ></Dropdown>
       )}
+
+      {viewModel.buttonEnabled && <button>Select car</button>}
     </div>
   );
 }

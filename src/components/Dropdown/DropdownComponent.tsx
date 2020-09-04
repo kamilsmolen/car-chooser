@@ -16,19 +16,28 @@ export const Dropdown: FunctionComponent<DropdownProps> = props => {
     props.onSelect(element.value);
   };
 
+  const renderInfoMessage = () => (
+    <div>No {props.title} for this configuration</div>
+  );
+
+  const renderSelect = () => (
+    <label>
+      {`${props.title ? props.title : "Item"} `}
+      <select value={selected} onChange={handleChange}>
+        <option className="dropdown-item__disabled"></option>
+        {props.list.map((item, key) => (
+          <option value={item} key={key}>
+            {item}
+          </option>
+        ))}
+      </select>
+    </label>
+  );
+
   return (
     <>
       <div>
-        <label>
-          {`${props.title ? props.title : "Item"} `}
-          <select value={selected} onChange={handleChange}>
-            {props.list.map((item, key) => (
-              <option value={item} key={key}>
-                {item}
-              </option>
-            ))}
-          </select>
-        </label>
+        {props.list.length !== 0 ? renderSelect() : renderInfoMessage()}
       </div>
     </>
   );

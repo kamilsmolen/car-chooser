@@ -16,3 +16,7 @@
 .dropdown-list {
     list-style-type: none;
 }
+
+.dropdown-item__disabled {
+    display: none;
+}
