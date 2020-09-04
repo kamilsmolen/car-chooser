@@ -36,14 +36,14 @@ This is application to select car from a directory of registered cars. User has 
 
 ## Screenshots
 
-![Loading mobile](https://github.com/kamilsmolen/car-chooser/blob/master/loading.png?raw=true "Loading mobile")
+![Loading mobile](https://github.com/kamilsmolen/car-chooser/blob/master/media/loading.png?raw=true "Loading mobile")
 
-![Selection mobile](https://github.com/kamilsmolen/car-chooser/blob/master/selection.png?raw=true "Selection mobile")
+![Selection mobile](https://github.com/kamilsmolen/car-chooser/blob/master/media/selection.png?raw=true "Selection mobile")
 
-![All selected mobile](https://github.com/kamilsmolen/car-chooser/blob/master/all_selected.png?raw=true "All selected mobile")
+![All selected mobile](https://github.com/kamilsmolen/car-chooser/blob/master/media/all_selected.png?raw=true "All selected mobile")
 
-![Missing car mobile](https://github.com/kamilsmolen/car-chooser/blob/master/missing_car.png?raw=true "Missing car mobile")
+![Missing car mobile](https://github.com/kamilsmolen/car-chooser/blob/master/media/missing_car.png?raw=true "Missing car mobile")
 
-![All selected desktop](https://github.com/kamilsmolen/car-chooser/blob/master/all_selected_desktop.png?raw=true "All selected desktop")
+![All selected desktop](https://github.com/kamilsmolen/car-chooser/blob/master/media/all_selected_desktop.png?raw=true "All selected desktop")
 
-![Missing car desktop](https://github.com/kamilsmolen/car-chooser/blob/master/missing_car_desktop.png?raw=true "Missing car desktop")
+![Missing car desktop](https://github.com/kamilsmolen/car-chooser/blob/master/media/missing_car_desktop.png?raw=true "Missing car desktop")
