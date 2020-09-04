@@ -25,3 +25,11 @@
     color: #B00020;
     text-align: center;
 }
+
+
+@media only screen and (min-device-width: 768px) {
+    .info-message {
+        width: 100%;
+        font-size: 21px;
+    }
+}

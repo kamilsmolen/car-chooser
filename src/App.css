@@ -15,13 +15,13 @@
 .apply-button {
   appearance: none;
   -webkit-appearance: none;
-  padding: 10px;
   border: none;
   background-color: #6200EE;
   color: #FFFFFF;
   font-weight: 600;
   border-radius: 5px;
   width: 100%;
+  margin: 8px;
 }
 
 .loading-header {
@@ -29,4 +29,27 @@
   font-size: 21px;
   color: #3700B3;
   text-align: center;
+}
+
+
+@media only screen and (min-device-width: 768px) {
+  .App {
+    font-size: 18px;
+  }
+
+  .header-message {
+    font-size: 24px;
+  }
+
+  .dropdowns-group {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .apply-button {
+    width: 150px;
+    height: 40px;
+    align-self: flex-end;
+  }
 }

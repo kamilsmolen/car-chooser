@@ -184,7 +184,7 @@ function App() {
       {isLoaded && (
         <div>
           <div className="header-message">Select your car</div>
-          <div>
+          <div className="dropdowns-group">
             <Dropdown
               list={makes}
               title={"Makes"}
