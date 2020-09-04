@@ -16,8 +16,12 @@ This is application to select car from a directory of registered cars. User has 
    > Server will start listening on port `8080`.
 
 4. Run application:
+
    > `$ npm run start`
    > App will be run on port `3000` -> `http://localhost:3000/`.
+
+   > To build prod version:
+   > `$ npm run build`
 
 ## Flow of the application
 
