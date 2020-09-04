@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { fetchData } from "./utils/fetchData";
 import { Dropdown } from "./components/Dropdown/DropdownComponent";
+import "./App.css";
 
 export interface Vehicle {
   bodyType?: string;
@@ -74,6 +75,7 @@ function App() {
     setModels([]);
     setVehicles([]);
     setVehicleConfig({});
+    console.log(selectedItem);
 
     if (fetchData)
       fetchData(`http://localhost:8080/api/models?make=${selectedItem}`).then(
@@ -177,58 +179,61 @@ function App() {
     );
 
   return (
-    <div>
-      {!isLoaded ? (
-        <div>Loading...</div>
-      ) : (
+    <div className="App">
+      {!isLoaded && <div className="loading-header">Loading...</div>}
+      {isLoaded && (
         <div>
-          <div>Select your car</div>
-          <Dropdown
-            list={makes}
-            title={"Makes"}
-            onSelect={makeSelected}
-          ></Dropdown>
-          {dropdownViewModel.modelEnabled && (
+          <div className="header-message">Select your car</div>
+          <div>
             <Dropdown
-              list={models}
-              title={"Models"}
-              onSelect={modelSelected}
+              list={makes}
+              title={"Makes"}
+              onSelect={makeSelected}
             ></Dropdown>
-          )}
+            {dropdownViewModel.modelEnabled && (
+              <Dropdown
+                list={models}
+                title={"Models"}
+                onSelect={modelSelected}
+              ></Dropdown>
+            )}
 
-          {dropdownViewModel.bodyTypeEnabled && (
-            <Dropdown
-              list={getBodyTypeList()}
-              title={"Body Type"}
-              onSelect={bodyTypeSelected}
-            ></Dropdown>
-          )}
+            {dropdownViewModel.bodyTypeEnabled && (
+              <Dropdown
+                list={getBodyTypeList()}
+                title={"Body Type"}
+                onSelect={bodyTypeSelected}
+              ></Dropdown>
+            )}
 
-          {dropdownViewModel.fuelTypeEnabled && (
-            <Dropdown
-              list={getFuelTypeList()}
-              title={"Fuel Type"}
-              onSelect={fuelTypeSelected}
-            ></Dropdown>
-          )}
+            {dropdownViewModel.fuelTypeEnabled && (
+              <Dropdown
+                list={getFuelTypeList()}
+                title={"Fuel Type"}
+                onSelect={fuelTypeSelected}
+              ></Dropdown>
+            )}
 
-          {dropdownViewModel.engineCapacityEnabled && (
-            <Dropdown
-              list={getEngineCapacityList()}
-              title={"Engine Capacity"}
-              onSelect={engineCapacitySelected}
-            ></Dropdown>
-          )}
+            {dropdownViewModel.engineCapacityEnabled && (
+              <Dropdown
+                list={getEngineCapacityList()}
+                title={"Engine Capacity"}
+                onSelect={engineCapacitySelected}
+              ></Dropdown>
+            )}
 
-          {dropdownViewModel.enginePowerEnabled && (
-            <Dropdown
-              list={getEnginePowerList()}
-              title={"Engine Power"}
-              onSelect={enginePowerSelected}
-            ></Dropdown>
-          )}
+            {dropdownViewModel.enginePowerEnabled && (
+              <Dropdown
+                list={getEnginePowerList()}
+                title={"Engine Power"}
+                onSelect={enginePowerSelected}
+              ></Dropdown>
+            )}
 
-          {dropdownViewModel.buttonEnabled && <button>Select car</button>}
+            {dropdownViewModel.buttonEnabled && (
+              <button className="apply-button">Select car</button>
+            )}
+          </div>
         </div>
       )}
     </div>

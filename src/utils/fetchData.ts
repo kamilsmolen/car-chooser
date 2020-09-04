@@ -1,6 +1,6 @@
 import { FetchError } from "./fetchError";
 
-export const fetchData = (url: string, retries: number = 0): Promise<any[]> =>
+export const fetchData = (url: string, retries: number = 10): Promise<any[]> =>
   fetch(url)
     .then(response => {
       if (!response.ok) {
