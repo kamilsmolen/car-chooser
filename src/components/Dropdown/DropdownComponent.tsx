@@ -16,32 +16,6 @@ export const Dropdown: FunctionComponent<DropdownProps> = props => {
     props.onSelect(element.value);
   };
 
-  const renderInfoMessage = () => (
-    <div className="info-message">
-      No such car in system for this configuration
-    </div>
-  );
-
-  const renderSelect = () => (
-    <div className="dropdown">
-      <label className="dropdown-label">{`${
-        props.title ? props.title : "Item"
-      }: `}</label>
-      <select
-        value={selected}
-        onChange={handleChange}
-        className="dropdown-select"
-      >
-        <option className="dropdown-item__disabled"></option>
-        {props.list.map((item, key) => (
-          <option value={item} key={key}>
-            {item}
-          </option>
-        ))}
-      </select>
-    </div>
-  );
-
   return (
     <>
       {props.list.length !== 0 && (

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import { fetchData } from "./utils/fetchData";
-import { Dropdown } from "./components/Dropdown/DropdownComponent";
+import { fetchData } from "../../utils/fetchData";
+import { Dropdown } from "../Dropdown";
 import "./App.css";
 
 export interface Vehicle {
@@ -20,7 +20,7 @@ export interface dropdownViewModel {
   buttonEnabled: boolean;
 }
 
-function App() {
+export function App() {
   const [isLoaded, setIsLoaded] = useState<boolean>(false);
   const [makes, setMakes] = useState<string[]>([]);
   const [models, setModels] = useState<string[]>([]);
@@ -28,6 +28,8 @@ function App() {
   const [vehicleConfig, setVehicleConfig] = useState<Vehicle>();
   const [make, setMake] = useState<string | null>(null);
   const [model, setModel] = useState<string | null>(null);
+
+  //View model to display dropdown windows
 
   const [dropdownViewModel, setDropdownViewModelModel] = useState<
     dropdownViewModel
@@ -40,6 +42,7 @@ function App() {
     buttonEnabled: false
   });
 
+  //State observer to update view model
   const updateViewModel = () =>
     setDropdownViewModelModel({
       ...dropdownViewModel,
@@ -61,6 +64,8 @@ function App() {
 
   useEffect(updateViewModel, [makes, models, vehicles, vehicleConfig]);
 
+  //Initial fetch of data - makes
+
   useEffect(() => {
     if (fetchData)
       fetchData("http://localhost:8080/api/makes").then(
@@ -70,6 +75,8 @@ function App() {
         }
       );
   }, []);
+
+  //Dropodown onSelect functions (fetch data)
 
   const makeSelected = (selectedItem: string) => {
     setModels([]);
@@ -98,6 +105,8 @@ function App() {
       });
     }
   };
+
+  //Dropodown onSelect functions (no fetch data)
 
   const bodyTypeSelected = (selectedItem: string) =>
     setVehicleConfig({
@@ -134,7 +143,9 @@ function App() {
     });
   };
 
-  const filterVehicles = (
+  //Preparing function: 1. Filter by selected value. 2. Map to strings. 3. Get unique values. 4 Sort.
+
+  const getVehiclePropertyValues = (
     filterCallback: (vehicle: Vehicle) => boolean,
     mapCallback: (vehicle: Vehicle) => any
   ) =>
@@ -147,20 +158,22 @@ function App() {
       )
       .sort();
 
+  //List getting functions
+
   const getBodyTypeList = () =>
-    filterVehicles(
+    getVehiclePropertyValues(
       () => true,
       (vehicle: Vehicle) => vehicle.bodyType
     );
 
   const getFuelTypeList = () =>
-    filterVehicles(
+    getVehiclePropertyValues(
       (vehicle: Vehicle) => vehicle.bodyType === vehicleConfig?.bodyType,
       (vehicle: Vehicle) => vehicle.fuelType
     );
 
   const getEngineCapacityList = () =>
-    filterVehicles(
+    getVehiclePropertyValues(
       (vehicle: Vehicle) =>
         vehicle.bodyType === vehicleConfig?.bodyType &&
         vehicle.fuelType === vehicleConfig?.fuelType,
@@ -169,7 +182,7 @@ function App() {
     );
 
   const getEnginePowerList = () =>
-    filterVehicles(
+    getVehiclePropertyValues(
       (vehicle: Vehicle) =>
         vehicle.bodyType === vehicleConfig?.bodyType &&
         vehicle.fuelType === vehicleConfig?.fuelType &&
@@ -177,6 +190,8 @@ function App() {
       (vehicle: Vehicle) =>
         `${vehicle.enginePowerPS} PS ${vehicle.enginePowerKW} KW`
     );
+
+  // Component
 
   return (
     <div className="App">
@@ -239,5 +254,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
