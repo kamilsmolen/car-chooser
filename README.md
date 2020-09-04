@@ -36,7 +36,8 @@ This is application to select car from a directory of registered cars. User has 
 
 1. If data fetch fails, retry fetch up to 10 times.
 2. If no available dropdowns values for set up values (dropdown has no values) - display message there is no values.
-3. Used npm version 6.13.4 and node version 12.14.1.
+3. On "Select car" button click nothing happens. It is placeholder only.
+4. Used npm version 6.13.4 and node version 12.14.1.
 
 ## Screenshots
 
