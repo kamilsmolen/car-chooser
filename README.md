@@ -1,44 +1,49 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Car chooser application
 
-## Available Scripts
+This is application to select car from a directory of registered cars. User has provided options and based on that goes to next steps of their selection.
 
-In the project directory, you can run:
+## How to run app?
 
-### `yarn start`
+1. Clone repository.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+2. Install dependencies:
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+   > `$ npm i`
 
-### `yarn test`
+3. Run server file:
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+   > `$ node apiserver/server.js`
+   > Server will start listening on port `8080`.
 
-### `yarn build`
+4. Run application:
+   > `$ npm run start`
+   > App will be run on port `3000` -> `http://localhost:3000/`.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Flow of the application
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+1. Initially application displays "Loading" message while makes are loaded from `GET http://localhost:8080/api/makes`.
+2. When makes are loaded, "Loading" message goes away and "Makes" dropdown appear.
+3. When make is selected, model request is running `GET http://localhost:8080/api/models?make=${make}`. When loaded - display available models dropdown.
+4. When model is selected, vehicles request is running `GET http://localhost:8080/api/vehicles?make=${make}&model=${model}`.
+5. For next dropdown - no api called. Data is filtered by selected vehicle configuration and sorted.
+6. If already selected data is changed - dropdown selections after it are cleared.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Additional information
 
-### `yarn eject`
+1. If data fetch fails, retry fetch up to 10 times.
+2. If no available dropdowns values for set up values (dropdown has no values) - display message there is no values.
+3. Used npm version 6.13.4 and node version 12.14.1.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Screenshots
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Loading mobile](https://github.com/kamilsmolen/car-chooser/blob/master/loading.png?raw=true "Loading mobile")
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![Selection mobile](https://github.com/kamilsmolen/car-chooser/blob/master/selection.png?raw=true "Selection mobile")
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+![All selected mobile](https://github.com/kamilsmolen/car-chooser/blob/master/all_selected.png?raw=true "All selected mobile")
 
-## Learn More
+![Missing car mobile](https://github.com/kamilsmolen/car-chooser/blob/master/missing_car.png?raw=true "Missing car mobile")
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![All selected desktop](https://github.com/kamilsmolen/car-chooser/blob/master/all_selected_desktop.png?raw=true "All selected desktop")
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Missing car desktop](https://github.com/kamilsmolen/car-chooser/blob/master/missing_car_desktop.png?raw=true "Missing car desktop")
